@@ -2,7 +2,7 @@
 
 ## 🎬 Introduction
 
-This repository is the official implementation of UITron-Speech: Towards Automated GUI Agents Based on Speech Instructions.
+This repository is the official implementation of **UITron-Speech: Towards Automated GUI Agents Based on Speech Instructions**.
 ![demo](asset/demo.gif)
 
 
