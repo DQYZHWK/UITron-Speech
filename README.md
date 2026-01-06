@@ -5,7 +5,7 @@
 This repository is the official implementation of UITron-Speech: Towards Automated GUI Agents Based on Speech Instructions.
 ![demo](asset/demo.gif)
 
-<!-- <video src="https://github.com/GUIRoboTron/UITron-Speech/asset/demo.mp4"  width="60%" controls autoplay controls>
+<!-- <video src="https://github.com/DQYZHWK/UITron-Speech/asset/demo.mp4"  width="60%" controls autoplay controls>
 </video> -->
 
 
@@ -14,7 +14,7 @@ This repository is the official implementation of UITron-Speech: Towards Automat
 
 - [ ] Release checkpoints
 - [ ] Release data
-- [X] [2025-06-12] Release code
+- [X] Release code
 
 ## 🤗 Acknowledgements
 
